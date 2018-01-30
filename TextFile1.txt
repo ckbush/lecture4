@@ -6,4 +6,5 @@ Edit 2: branch 1 edit
 
 Edit 3
 
+CONFLICT
 
